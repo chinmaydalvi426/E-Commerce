@@ -1,4 +1,5 @@
 // This file handles API calls to our Express.js backend
+import { clear } from "console";
 import type { Product } from "./types";
 
 // API base URL (use environment variable for flexibility)
